@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('/img/background.jpeg'); /* Updated background image path */
+    background-image: url('https://images.pexels.com/photos/7135015/pexels-photo-7135015.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load'); /* Updated background image path */
     background-size: cover;
     background-position: center;
     color: #333;
