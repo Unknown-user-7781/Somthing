@@ -1,4 +1,3 @@
-// script.js
 const messages = document.querySelectorAll('.message');
 let currentMessage = 0;
 
